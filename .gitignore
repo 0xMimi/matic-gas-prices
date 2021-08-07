@@ -1,9 +1,1 @@
-*
-
-!.gitignore
-!manifest.json
-!.background.json
-!/src
-!/icons
-
-
+ui.xd
