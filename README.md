@@ -25,18 +25,21 @@ The extension refreshes every minute and will force refresh when clicked.
 
 The installation process for Chrome, Brave and Edge are very similar.
 
-1. Download the latest release for chromium on the [releases page](https://github.com/Abcsquirrel/matic-gas-prices/releases).  
-2. Extract the downloaded zip.
-3. Open the extensions page on your browser.  
+1. **Download the latest release for chromium on the [releases page](https://github.com/Abcsquirrel/matic-gas-prices/releases).**
+2. **Extract the downloaded zip.**
+3. **Open the extensions page on your browser.**
 
 ![](images/chromium/extension_page.png 'Extension Page')
-4. Turn on developer mode.
+
+4. **Turn on developer mode.**  
 
 ![](images/chromium/developer_mode.png 'Developer Mode')
-5. Click "Load unpacked".
+
+5. **Click "Load unpacked".**
 
 ![](images/chromium/load_unpacked.png 'Load Unpacked')
-6. Select the extracted folder.
+
+6. **Select the extracted folder.**
 
 ![](images/chromium/select_directory.png 'Selected Folder')
 
@@ -44,13 +47,15 @@ The installation process for Chrome, Brave and Edge are very similar.
 
 Currently, the extension needs to be installed manually on Firefox, but it will be published on the Firefox Add-ons page soon.
 
-1. Download the latest release for Firefox on the [releases page](https://github.com/Abcsquirrel/matic-gas-prices/releases).
-2. Open the extensions page on your browser
+1. **Download the latest release for Firefox on the [releases page](https://github.com/Abcsquirrel/matic-gas-prices/releases).**
+2. **Open the extensions page on your browser.**
 
 ![](images/firefox/addon_page.png 'Add-on Page') 
-3. Click the add-ons settings button and select "Install Add-on From File".
+
+3. **Click the add-ons settings button and select "Install Add-on From File".**
 
 ![](images/firefox/install.png 'Install') 
-4. Select the download file.
+
+4. **Select the download file.**
 
 ![](images/firefox/file.png 'File') 
