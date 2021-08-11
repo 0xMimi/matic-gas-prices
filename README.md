@@ -45,7 +45,7 @@ The installation process for Chrome, Brave and Edge are very similar.
 
 ### Firefox
 
-Currently, the extension needs to be installed manually on Firefox, but it will be published on the Firefox Add-ons page soon.
+Get the extension on the [Firefox Add-ons page](https://addons.mozilla.org/addon/polygon-matic-gas-price/) or install it manually.
 
 1. **Download the latest release for Firefox on the [releases page](https://github.com/Abcsquirrel/matic-gas-prices/releases).**
 2. **Open the extensions page on your browser.**
